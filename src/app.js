@@ -18,7 +18,7 @@ export var App = () => {
         alt='Utopia logo'
         style={{ height: '40%' }}
       ></img>
-heyy
+heyy unicorn
     </FlexCol>
   )
 }
